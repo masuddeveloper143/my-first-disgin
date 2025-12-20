@@ -19,8 +19,8 @@
 - 🌱 Built with: HTML5 + CSS3
 - 👨‍💻 A simple and beautiful landing page
 - 📅 Created as my first GitHub project
-- ⚡ Live Demo: [Click Here to See Live](https://masuddeveloper143.github.io/my-first-disgin/)  
-  *(তোমার লাইভ লিঙ্ক দিয়ে চেঞ্জ করো)*
+- ⚡ Live Demo: [Click Here to See Live][(https://masuddeveloper143.github.io/my-first-disgin/)  ]
+  
 
 <br>
 
