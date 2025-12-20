@@ -19,7 +19,7 @@
 - 🌱 Built with: HTML5 + CSS3
 - 👨‍💻 A simple and beautiful landing page
 - 📅 Created as my first GitHub project
-- ⚡ Live Demo: [Click Here to See Live][(https://masuddeveloper143.github.io/my-first-disgin/)  ]
+• ⚡ Live Demo: [Click Here to See Live](https://masuddeveloper14.github.io/my-first-design/)
   
 
 <br>
